@@ -4,8 +4,6 @@
 
 - <b>Microsoft Azure</b>
   - [Deploying Active Directory, joining the domain and creating new users using Azure VMs](https://github.com/Vladcutus/ActiveDirectoryLab)
-- <b>Full Send</b>
-  - [Iprojec](https://giwhw)
 
 
 <h2> 💻 Connect with me:</h2>
