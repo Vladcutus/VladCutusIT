@@ -5,6 +5,9 @@
 - <b>Microsoft Azure</b>
   - [Deploying Active Directory, joining the domain and creating new users using Azure VMs](https://github.com/Vladcutus/ActiveDirectoryLab)
 
+<h2> 🪪 Certifications:</h2>
+
+  - [Comptia A+](https://www.credly.com/badges/891707de-0241-44f1-ab08-ed723101a016/public_url)
 
 <h2> 💻 Connect with me:</h2>
 
