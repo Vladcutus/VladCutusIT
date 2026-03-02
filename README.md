@@ -12,7 +12,7 @@
 
   - [Comptia A+](https://www.credly.com/badges/891707de-0241-44f1-ab08-ed723101a016/public_url)
   - [Comptia Network+](https://www.credly.com/badges/b420da34-a9cf-47ae-8180-942380c47a7d/public_url)
-  - [ITIL 4 Foundation](soon)
+  - [ITIL 4 Foundation]
 
 <h2> 💻 Connect with me:</h2>
 
