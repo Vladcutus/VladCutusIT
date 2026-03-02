@@ -5,10 +5,14 @@
 - <b>Microsoft Azure</b>
   - [Deploying Active Directory, joining the domain and creating new users using Azure VMs](https://github.com/Vladcutus/ActiveDirectoryLab)
 
+- <b>OpenWRT</b>
+  - [Mounting OpenWRT on my Raspberry PI, transforming it into a router that can filter traffic with VPN](https://github.com/Vladcutus/RaspberryPiLab-SecurePiRouter)
+
 <h2> 🪪 Certifications:</h2>
 
   - [Comptia A+](https://www.credly.com/badges/891707de-0241-44f1-ab08-ed723101a016/public_url)
   - [Comptia Network+](https://www.credly.com/badges/b420da34-a9cf-47ae-8180-942380c47a7d/public_url)
+  - [ITIL 4 Foundation](soon)
 
 <h2> 💻 Connect with me:</h2>
 
