@@ -12,7 +12,7 @@
 
   - [Comptia A+](https://www.credly.com/badges/891707de-0241-44f1-ab08-ed723101a016/public_url)
   - [Comptia Network+](https://www.credly.com/badges/b420da34-a9cf-47ae-8180-942380c47a7d/public_url)
-  - ITIL 4 Foundation
+  - [ITIL 4 Foundation](https://badges.peoplecert.org/Badge/en/2/004F0A2D-0E63-4EE1-AD38-5B9A0BED8F09?1015_url)
 
 <h2> 💻 Connect with me:</h2>
 
