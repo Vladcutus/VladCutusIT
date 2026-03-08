@@ -6,7 +6,7 @@
   - [Deploying Active Directory, joining the domain and creating new users using Azure VMs](https://github.com/Vladcutus/ActiveDirectoryLab)
 
 - <b>OpenWRT</b>
-  - [Mounting OpenWRT on my Raspberry PI, transforming it into a router that can filter traffic with VPN](https://github.com/Vladcutus/RaspberryPiLab-SecurePiRouter)
+  - [Deploying OpenWRT on my Raspberry PI, transforming it into a router that can filter traffic with VPN](https://github.com/Vladcutus/RaspberryPiLab-SecurePiRouter)
 
 <h2> 🪪 Certifications:</h2>
 
