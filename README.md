@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
-  - [Deploying Active Directory, joining the domain and creating new users using Azure VMs](https://github.com/Vladcutus/ActiveDirectoryLab)
-
 - <b>OpenWRT</b>
   - [Deploying OpenWRT on my Raspberry PI, transforming it into a router that can filter traffic with VPN](https://github.com/Vladcutus/RaspberryPiLab-SecurePiRouter)
+
+- <b>Microsoft Azure</b>
+  - [Deploying Active Directory, joining the domain and creating new users using Azure VMs](https://github.com/Vladcutus/ActiveDirectoryLab)
 
 <h2> 🪪 Certifications:</h2>
 
