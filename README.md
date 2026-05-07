@@ -6,7 +6,7 @@
   - [Deploying OpenWRT on my Raspberry PI, transforming it into a router that can filter traffic with VPN](https://github.com/Vladcutus/RaspberryPiLab-SecurePiRouter)
 
 - <b>Docker</b>
-  - [Deploying a self-hosted, containerized home server infrastructure on a Raspberry Pi using Docker and Portainer](https://github.com/Vladcutus/RaspberryPiLab-HomeServer)
+  - [Deploying a self-hosted, containerized home server infrastructure on a Raspberry Pi using Docker](https://github.com/Vladcutus/RaspberryPiLab-HomeServer)
 
 - <b>Microsoft Azure</b>
   - [Deploying Active Directory, joining the domain and creating new users using Azure VMs](https://github.com/Vladcutus/ActiveDirectoryLab)
